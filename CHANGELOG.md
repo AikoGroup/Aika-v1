@@ -19,10 +19,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Pydantic AI
   - Supabase Vector
   - Apache Kafka
-  - Technology Integration Summary
+  - Archon architecture reference
 
 ### Changed
 - Updated technology stack to use Anthropic's Claude models instead of OpenAI
+- Reorganized Research directory to improve organization and reduce size
+- Extracted essential documentation from technology repositories
+- Updated .gitignore to exclude large repository files
 
 ## Release Guidelines
 

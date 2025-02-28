@@ -94,7 +94,7 @@ aika/
 
 ## Development
 
-Aika follows an incremental development approach, with versions broken down into smaller, manageable chunks. See the [Version Documentation](./Planning/Mini_Version_Documentation_Index.md) for detailed information on each development phase.
+Aika follows an incremental development approach, with versions broken down into smaller, manageable chunks. See the [Version Documentation](./Planning/Mini%20Versions/Mini_Version_Documentation_Index.md) for detailed information on each development phase.
 
 ## License
 
