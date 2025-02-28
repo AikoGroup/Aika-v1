@@ -49,11 +49,21 @@ venv.bak/
 .idea/
 .vscode/
 *.swp
-*.swo
 
 # OS specific files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+
+# Large repositories and external code
+Research/*/Repository/
+Research/*/Repositories/
+Research/*/References/V*/
+Research/*/supabase/
 
 # Project specific
 *.log
@@ -71,4 +81,3 @@ supabase/
 
 # Documentation build
 docs/_build/
-
