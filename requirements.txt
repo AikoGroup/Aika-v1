@@ -1,0 +1,36 @@
+# Core dependencies
+fastapi>=0.104.0
+uvicorn>=0.23.2
+pydantic>=2.4.2
+anthropic>=0.5.0
+langchain>=0.0.312
+langgraph>=0.0.10
+langsmith>=0.0.52
+
+# Database
+supabase>=1.0.3
+pgvector>=0.2.0
+sqlalchemy>=2.0.22
+
+# Messaging
+confluent-kafka>=2.2.0
+
+# Authentication
+python-jose>=3.3.0
+passlib>=1.7.4
+
+# Testing
+pytest>=7.4.2
+pytest-cov>=4.1.0
+httpx>=0.25.0
+
+# Development
+black>=23.9.1
+isort>=5.12.0
+flake8>=6.1.0
+mypy>=1.6.1
+pre-commit>=3.5.0
+
+# Documentation
+sphinx>=7.2.6
+sphinx-rtd-theme>=1.3.0

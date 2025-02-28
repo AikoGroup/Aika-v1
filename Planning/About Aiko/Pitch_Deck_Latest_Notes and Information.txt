@@ -1,0 +1,193 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww38200\viewh19980\viewkind0
+\deftab720
+\pard\pardeftab720\sl283\slmult1\partightenfactor0
+
+\f0\fs44 \cf2 Aiko is an AI-powered insurance platform for hybrid workers, solopreneurs, and freelancers. We provide real-time, personalised, adaptive coverage that blends personal and business insurance into a single policy.\'94 We don\'92t believe that everyone fits into the same mould, so our risk assessment and management system adapts to the information we give it instead of trying to fit people into a few simple boxes.\
+\
+"Take Sarah, a freelance photographer. She works from home but also does client shoots. Traditional insurers force her to buy two separate policies\'97one for her home and another for her business. Aiko eliminates this complexity by offering a single, adaptive policy that adjusts in real-time based on her work patterns."\
+\
+Aiko is an AI-powered insurance platform for hybrid workers, solopreneurs, and freelancers. We provide real-time, personalised, adaptive coverage that blends personal and business insurance into a single policy.\'94 We don\'92t believe that everyone fits into the same mould, so our risk assessment and management system adapts to the information we give it instead of trying to fit people into a few simple boxes.\
+\
+"Take Sarah, a freelance photographer. She works from home but also does client shoots. Traditional insurers force her to buy two separate policies\'97one for her home and another for her business. Aiko eliminates this complexity by offering a single, adaptive policy that adjusts in real-time based on her work patterns."\
+\
+"We\'92ve moved fast. In a short time, we\'92ve built the foundation for an AI-first insurance company."\
+\
+"First, I built an AI Co-Founder\'97not just an assistant, but an integral part of Aiko\'92s strategy, underwriting, and risk modeling. Aika isn\'92t just a chatbot\'97it\'92s an AI-driven decision-maker that continuously refines our risk models and pricing in real-time."\
+\
+\'93Together, Aika and I also developed our AI risk engine prototype, which dynamically assesses risk based on things like telematics, financial stability, and cybersecurity habits\'97allowing us to offer real-time, adaptive pricing instead of outdated, static policies."\
+\
+"To engage investors and partners, we launched an interactive investor portal, where you can chat directly with Aika to explore our business model, risk engine, and vision for the future."\
+\
+"We\'92ve also begun early exploration of embedded insurance partnerships with gig platforms, ensuring that Aiko can scale efficiently while keeping customer acquisition costs low."\
+\
+"And finally, we\'92ve refined our fundraising strategy and financial model, ensuring that every pound raised is deployed for maximum impact."\
+\
+But let\'92s talk about what makes Aiko truly unique\'97Aika, our AI Co-Founder."\
+\
+"Aika isn\'92t just a support tool\'97She\'92s a core part of our business. She will underwrite risk, refines pricing, and automates claims processing. It continuously learns from real-time data, improving our risk models and ensuring that Aiko\'92s policies remain fair, adaptive, and competitive."\
+\
+"Beyond that, Aika engages with investors, partners, and customers\'97providing instant insights into our business model, risk assessment framework, and financial projections."\
+\
+"Aika is what makes Aiko scalable, efficient, and truly AI-first."\
+\
+But actually she\'92s not. Aika is the interface AI for many highly specialised AI agents, all replicable to handle scale at the click of a button. Right now, she\'92s manages 5 models to handle large information organisation and processing, special embeddings, sentiment, output reviews, code development and review, and deep research.\
+\
+\pard\pardeftab720\sl283\slmult1\partightenfactor0
+\cf2 Aika is the interface between the following agents and humans (customers, investors and our team):\
+\
+1. Relationship Manager AI Agent\
+1.1 User Experience AI Agent\
+1.2 Customer Support AI Agent\
+1.3 Customer Sentiment AI Agent\
+\
+2. Regulatory and Compliance Manager AI Agent\
+2.1 FCA AI Agent\
+2.2 GDPR AI Agent\
+2.3 Ethics and Bias AI Agent\
+\
+3. Partnerships and Embeddings Manager AI Agent\
+\pard\pardeftab720\partightenfactor0
+\cf2 3.1 Embedded Pricing AI Agent\
+3.2 Performance Monitoring AI Agent\
+3.3. Partnerships AI Agent\
+\
+4. Growth Manager AI Agent\
+4.1 User Acquisition AI Agent\
+4.2 Referral and Incentive AI Agent\
+4.3 Social Media AI Agent\
+\
+5. Operations and Finance Manager AI Agent\
+5.1 Claims Reserve AI Agent\
+5.2 Investor Reporting AI Agent\
+5.3 Accounting AI Agent\
+5.4 Grants AI Agent (scrapes and applies for grants)\
+\
+6. Insurance and Risk Management AI Agent\
+\pard\pardeftab720\sl283\slmult1\partightenfactor0
+\cf2 6.1 Reinsurance AI Agent\
+6.2 Actuarial AI Agent\
+6.3 Risk Monitoring AI Agent\
+\
+7. NLP and Explainability Manager AI Agent\
+7.1 Transparency Engine AI Agent\
+7.2 Policy Language Specification AI Agent\
+\
+8. Cybersecurity, Fraud and Identity Manager AI Agent\
+8.1 Account Security AI Agent\
+8.2 Transaction Monitoring AI Agent\
+8.3 Fraud Detection AI Agent\
+\
+9. Contract and Job Analysis Manager AI Agent\
+9.1 Contract Risk Scoring AI Agent\
+9.2 Venue and Client Risk AI Agent\
+\
+10. Dynamic Pricing and Risk Model Manager AI Agent\
+10.1 Real-Time Market Pricing AI Agent\
+10.2 User Behaviour AI Agent\
+10.3 Detective AI Agent (scrapes the internet when claims happen)\
+\
+11. Claims and Fraud Manager AI Agent\
+11.1 Claim Assessment AI Agent\
+11.2 Payouts AI Agent\
+11.3 Anomaly Detection AI Agent\
+11.4 Insurance Contract Review AI Agent\
+\
+12. Underwriting Manager AI Agent\
+12.1 Alternative Risk Signals AI Agent\
+12.2 Dynamic Adjustments AI Agent\
+12.3 Underwriter AI Agent\
+12.4 Legal AI Agent\
+\pard\pardeftab720\sl283\slmult1\partightenfactor0
+\cf2 \
+"Insurance is broken because it was built for a world that no longer exists. We see the future differently."\
+\
+"Incumbents are still trying to fit people into outdated categories\'97driver, freelancer, business owner. But the future of work is fluid, and insurance needs to be too."\
+\
+"Aiko is built on four key insights:"\
+\
+"First, insurance should be built around people, not assets. Traditional insurers ask: 'What\'92s your job?' and force you into a box. Aiko asks: 'How do you work?' and adapts coverage dynamically."\
+\
+"Second, the biggest risk isn\'92t accidents\'97it\'92s income volatility. A freelancer\'92s biggest fear isn\'92t breaking their laptop\'97it\'92s losing a client. We\'92ll detect income instability and offer dynamic premium adjustments or income protection add-ons."\
+\
+"Third, insurance shouldn\'92t just pay claims\'97it should prevent them. We want to provide real-time risk reduction tools like cybersecurity protection, contract risk analysis, and safe driving incentives\'97lowering claims frequency and making insurance more affordable."\
+\
+"And finally, the future of insurance is embedded, invisible and automatic. People don\'92t want to buy insurance\'97they just want to be covered when they need it. We\'92d want to integrate directly into gig platforms like Fiverr, Upwork, ensuring seamless, automatic coverage."\
+\
+"This is why Aiko isn\'92t just another insuretech with \'93AI\'94 on top\'97it\'92s a fundamental rethinking of how insurance should work in a world where work itself is changing."\
+\
+"Our first 90 days are about building, testing, and iterating fast to validate Aiko\'92s core assumptions while ensuring our AI models are robust and regulatory-ready."\
+\
+"In Phase 1, we\'92ll secure Aviva\'92s historical claims data, scale our AI & ML team, and develop internal underwriting and claims tools. We\'92ll also onboard 50 freelancers for live policy testing while benchmarking our AI underwriting against traditional models."\
+\
+"In Phase 2, we\'92ll refine our dynamic pricing model, deploy AI-driven claims automation, and stress-test our AI models under extreme claim scenarios. We\'92ll also expand embedded insurance discussions to secure 1+ platform partnership."\
+\
+"We\'92re testing five key hypotheses: Will freelancers trust AI-driven insurance? Can embedded insurance drive adoption? Does AI underwriting reduce fraud? Can Aiko\'92s AI outperform traditional risk models? And how resilient is our AI under stress?"\
+\
+"Our success metrics are clear\'9750 active users, 80% faster claims processing, AI underwriting that surpasses traditional models, and platform validation. This ensures that by the end of 90 days, we have a proven, scalable, and compliant AI-driven insurance platform.\'94\
+\
+This puts us in the perfect position to spend the next 90 on customer acquisition, growth and further refinement.\
+\
+"We\'92re testing five key hypotheses: Will freelancers trust AI-driven insurance? Can embedded insurance drive adoption? Does AI underwriting reduce fraud? Can Aiko\'92s AI outperform traditional risk models? And how resilient is our AI under stress?"\
+\
+"Our success metrics are clear\'9750 active users, 80% faster claims processing, AI underwriting that surpasses traditional models, and platform validation. This ensures that by the end of 90 days, we have a proven, scalable, and compliant AI-driven insurance platform."\
+\
+"Aiko is led by Tiaan Wolmarans, a fintech entrepreneur with 15+ years of experience in scaling startups, driving strategy, and leading product innovation. As Founder & CEO, I bring experience and expertise in fundraising, problem-solving, and scaling businesses. - I\'92m an operator\'93\
+\
+"Aiko\'92s AI Co-Founder, Aika, is at the core of our product\'97handling underwriting, risk modelling, and claims automation. Aika is designed to make insurance adaptive, embedded, and invisible."\
+\
+"To execute at scale, we\'92re bringing in key hires: an ML/AI Lead (potential co-founder) to refine our AI risk engine, an Actuarial Scientist to ensure compliance and pricing accuracy, a Marketing & Growth Lead to drive customer acquisition, and a Customer Support Lead to optimise user experience."\
+\
+Target Raise: \'a31.75M Pre-A\
+Timeline: 6 months (Q3\'96Q1 2026)\
+\
+Investor Focus:\
+Strategic Insuretech & Fintech VCs (e.g., Anthemis, MTech Capital, Outward VC)\
+Corporate Insurance Partners (e.g., Aviva Ventures, AXA Venture Partners)\
+AI & Deep Tech Investors (e.g., Firstminute Capital, Entrepreneur First)\
+\
+Target Raise: \'a31.75M Pre-A\
+Timeline: 6 months (Q3\'96Q1 2026)\
+\
+Capital Deployment:\
+AI & ML Talent Expansion \'96 Hiring underwriting & risk modelling engineers.\
+Regulatory & Compliance Readiness \'96 FCA approval & actuarial validation.\
+Product Development & User Testing \'96 Scaling AI underwriting & claims automation.\
+Embedded Insurance Partnerships \'96 Securing platform integrations.\
+\
+The Biggest Risk for Gig Workers Isn\'92t What We Thought\
+Initial Assumption: Gig workers primarily need coverage for accidents, liability, and asset protection.\
+What We Learned: Their biggest financial risk is income volatility\'97not knowing when their next pay check is coming.\
+\uc0\u8232 The second thing we learned is that we probably don\'92t want to insure musicians :P\u8232 \
+We\'92re exploring income protection add-ons that dynamically adjust based on earnings patterns.\
+Our AI will track income stability and could offer premium flexibility during low-income periods.\
+Embedded insurance in gig platforms can auto-adjust coverage based on work activity.\
+\
+Trust in AI-Driven Insurance is a Barrier\'97But It Can Be Overcome\
+Initial Assumption: Users would immediately trust AI-driven underwriting if it meant lower premiums.\
+What We Learned: Many gig workers are skeptical of AI making financial decisions\'97they want transparency and control.\
+\
+We\'92re making Aika explainable so users can see why their premium changes, or why they\'92ve been quoted a certain amount.\
+We\'92ll test human-in-the-loop models for claims \'97 AI automates 90%, but users can escalate to a human if needed.\
+We\'92re focusing on trust-building features like instant payouts for low-risk claims and real-time policy adjustments.\
+\
+We assume two primary acquisition channels with the potential for a third.\
+\
+Embedded insurance (gig platforms, fintechs, marketplaces)\
+Direct acquisition (paid marketing, referrals, community growth)\
+\
+Third opportunity is Aviva referrals\
+\
+LTV:CAC Ratio = 10:1 (Highly Scalable)\
+\
+Industry benchmark for insurtech is 3:1 or higher.\
+Our embedded model allows for a much stronger unit economics profile.\
+\uc0\u8232 It\'92s quite expensive for us to fall under a reinsurer / MGA model and to learn at the same time - minimal profit.\
+\
+This is how we de-risk Aiko for investors while ensuring we have the momentum to dominate the AI-driven insurance space.\
+\
+\
+}
